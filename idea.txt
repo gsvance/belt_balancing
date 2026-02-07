@@ -1,0 +1,5 @@
+Can Factorio belt balancers be modeled as a kind of directed graph?
+It might allow you to design them reliably.
+With the inclusion of feedback loops, this actually becomes an interesting problem.
+Can it be modeled as a linear optimization problem? Like with pyomo?
+Maybe not... no wait, I think this actually CAN be done with enough thought.

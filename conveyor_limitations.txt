@@ -1,0 +1,1 @@
+conveyor throughput is limited by its total input, its consumption, and belt speed
