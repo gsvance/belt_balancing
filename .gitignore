@@ -1,2 +1,5 @@
 # Random AIMMS PDF file
 AIMMS*.pdf
+
+# Python virtual environment
+.venv/
